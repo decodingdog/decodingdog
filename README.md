@@ -1,6 +1,7 @@
 <div align="center">
 
-# FE SKILL
+  ![header](https://capsule-render.vercel.app/api?type=rect&text=FE%20SKILL&fontColor=fff&fontSize=18&animation=twinkling&height=60&color=D5CABD)
+  
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/MOBX-FF9955?style=for-the-badge&logo=mobx&logoColor=white">
@@ -15,6 +16,7 @@
 
 
 
+<br/>
 <br/>
 <br/>
 
