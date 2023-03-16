@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=slice&text=Welcom%20to%20My%20Space&fontAlign=88&fontColor=B4AA99&fontSize=20&height=60&color=EBDBBD)
+  ![header](https://capsule-render.vercel.app/api?type=soft&text=Welcom%20to%20My%20Space&fontColor=fff&fontSize=20&height=50&color=006BCD)
  
 # FE SKILL
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
