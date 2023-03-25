@@ -1,8 +1,11 @@
+
+
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=soft&height=50&color=BA79FF&text=Welcom%20to%20My%20Space&fontColor=fff&fontSize=20&animation=twinkling)
- 
-# FE SKILL
+# FE Skill
+  
+<br/>
+  
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/MOBX-FF9955?style=for-the-badge&logo=mobx&logoColor=white">
