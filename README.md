@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# FE Skill
+# Tech Stack
   
 <br/>
   
@@ -22,8 +22,5 @@
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=materialui&logoColor=white">
 <img src="https://img.shields.io/badge/STORYBOOK-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 <br/>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=decodingdog&compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
